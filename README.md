@@ -1,5 +1,6 @@
 # eCommerce-Replica-Amazon-clone-
-# link:https://64b0c82fa975b97969318b49--sparkly-bienenstitch-d4fdc5.netlify.app/
+# link:
+https://64b0c82fa975b97969318b49--sparkly-bienenstitch-d4fdc5.netlify.app/
 
 
 

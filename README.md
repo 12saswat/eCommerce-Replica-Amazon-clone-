@@ -1,5 +1,8 @@
 # eCommerce-Replica-Amazon-clone-
-https://github.com/12saswat/eCommerce-Replica-Amazon-clone-
+https://64b0c82fa975b97969318b49--sparkly-bienenstitch-d4fdc5.netlify.app/
+
+
+
 This is the clone of amazon website.
 This is only a web page.
 #output
